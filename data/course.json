@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "e30ce802-b058-ab4c-eee1-8a4da2481891",
+  "instructors": {
+    "content": [
+      "cfb51f74-da5d-f448-9e92-eb78b1d1466c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "061a4530-2498-19a8-8c8f-98a364089e69",
+    "website": "6-630-electromagnetics-fall-2006"
+  },
+  "course_title": "Electromagnetics",
+  "course_description": "6.630 is an introductory subject on electromagnetics, emphasizing fundamental concepts and applications of Maxwell equations. Topics covered include: polarization, dipole antennas, wireless communications, forces and energy, phase matching, dielectric waveguides and optical fibers, transmission line theory and circuit concepts, antennas, and equivalent principle. Examples deal with electrodynamics, propagation, guidance, and radiation of electromagnetic waves.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.630",
+  "course_image_thumbnail": {
+    "content": "7c9bb4b5-7b01-5723-5125-a59648a14bb9",
+    "website": "6-630-electromagnetics-fall-2006"
+  },
+  "learning_resource_types": [
+    "Simulation Videos",
+    "Problem Sets",
+    "Exams"
+  ],
+  "site_uid": "d43f1089-c6e4-42de-84f5-c6b739014a49",
+  "site_short_id": "6.630-fall-2006",
+  "site_url_path": "courses/6-630-electromagnetics-fall-2006",
+  "title": "Course Metadata"
+}
