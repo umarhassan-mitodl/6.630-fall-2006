@@ -4,6 +4,8 @@ description: This resource is the supporting file for the topic Resonator.
 file: /courses/6-630-electromagnetics-fall-2006/9a861890304847f4e12fedd56bf09b3e_res.m
 file_size: 2249
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

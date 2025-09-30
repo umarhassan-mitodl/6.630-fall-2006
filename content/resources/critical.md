@@ -5,6 +5,8 @@ description: This resource contains the setup and procedural information for Cri
 file: /courses/6-630-electromagnetics-fall-2006/9fa60f33be8ed82f7b29284f15e3edaa_critical.pdf
 file_size: 55733
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

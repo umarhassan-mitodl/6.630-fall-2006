@@ -5,6 +5,8 @@ description: This resource contains problems to test students understanding of c
 file: /courses/6-630-electromagnetics-fall-2006/46694c746944221e4c8b876d869977db_ps8.pdf
 file_size: 249338
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains the setup and procedural information for Bre
 file: /courses/6-630-electromagnetics-fall-2006/d49df5ac2e2c15474db75322e4a20a9f_brewster.pdf
 file_size: 52964
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

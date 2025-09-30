@@ -4,6 +4,8 @@ description: This resource is the supporting file for the topic Wave in a Plasma
 file: /courses/6-630-electromagnetics-fall-2006/816cb73369b4e88e4d3333345b5929fb_media.m
 file_size: 1053
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains the setup and procedural information for Imp
 file: /courses/6-630-electromagnetics-fall-2006/42efab56d2d655bbe82840d012d4ca94_match.pdf
 file_size: 54806
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
