@@ -5,8 +5,6 @@ description: This resource contains the setup and procedural information for Res
 file: /courses/6-630-electromagnetics-fall-2006/fbe25ed0bbbe697c896c0408d51cbe7f_resonator.pdf
 file_size: 54926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains the resonator structure diagram.
 file: /courses/6-630-electromagnetics-fall-2006/9d17ccb0ae9c37459fbc6ba0627f8697_structure.pdf
 file_size: 85689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

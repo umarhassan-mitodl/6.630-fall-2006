@@ -5,8 +5,6 @@ description: This resource contains the setup and procedural information for Lum
 file: /courses/6-630-electromagnetics-fall-2006/64409b23246774a62477edd373d5ac0b_lumped.pdf
 file_size: 89932
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
